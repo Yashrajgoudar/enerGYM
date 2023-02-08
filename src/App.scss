@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif;
+}
+.link{
+  text-decoration: none;
+  color: rgb(55, 55, 185);
+}
+.logo{
+    background: linear-gradient(to bottom right,rgb(255, 213, 0), rgb(0, 255, 38));
+    font-weight: bold;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: 2px;
+}
+.App{
+  .contentpage{
+    background-color: rgb(22, 22, 78);
+    color: white;
+  }
+}
